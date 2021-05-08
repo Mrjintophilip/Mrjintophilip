@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrjintophilip
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Bash Script
+- 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on studies
 - 📫 Reach me via mail : mrjintophilip@gmail.com
 
